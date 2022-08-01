@@ -1,4 +1,4 @@
-functional programming
+// functional programming
 
 let currencyOne = 100
 let currencyTwo = 0
