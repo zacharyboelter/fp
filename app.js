@@ -38,3 +38,16 @@ console.log(toPay)
 
 // example()
 
+
+
+>>> 'hello' + 'world'
+'helloworld'
+>>> 'hello ' + 'world'
+'hello world'
+>>> word = 'hello'
+>>> word = 'Hello'
+>>> word
+'Hello'
+>>> 'word'
+'word'
+>>>
