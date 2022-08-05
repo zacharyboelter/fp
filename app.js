@@ -51,3 +51,5 @@ console.log(toPay)
 >>> 'word'
 'word'
 >>>
+
+print(6 ** 2)
