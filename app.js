@@ -40,16 +40,18 @@ console.log(toPay)
 
 
 
->>> 'hello' + 'world'
-'helloworld'
->>> 'hello ' + 'world'
-'hello world'
->>> word = 'hello'
->>> word = 'Hello'
->>> word
-'Hello'
->>> 'word'
-'word'
->>>
+// >>> 'hello' + 'world'
+// 'helloworld'
+// >>> 'hello ' + 'world'
+// 'hello world'
+// >>> word = 'hello'
+// >>> word = 'Hello'
+// >>> word
+// 'Hello'
+// >>> 'word'
+// 'word'
+// >>>
 
 print(6 ** 2)
+
+print('hello world')
